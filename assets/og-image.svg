@@ -1,0 +1,27 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#fafafa"/>
+
+  <!-- Decorative circles -->
+  <circle cx="100" cy="100" r="200" fill="#2563eb" fill-opacity="0.05"/>
+  <circle cx="1100" cy="530" r="250" fill="#10b981" fill-opacity="0.05"/>
+
+  <!-- Logo icon -->
+  <g transform="translate(540, 180)">
+    <rect width="120" height="120" rx="24" fill="#2563eb"/>
+    <path d="M60 25C42.327 25 28 39.327 28 57C28 68.523 34.137 78.546 43.106 84.236L41 105L60 95L79 105L76.894 84.236C85.863 78.546 92 68.523 92 57C92 39.327 77.673 25 60 25Z" fill="white"/>
+    <circle cx="50" cy="52" r="6" fill="#2563eb"/>
+    <circle cx="70" cy="52" r="6" fill="#2563eb"/>
+    <path d="M48 68C48 68 52 75 60 75C68 75 72 68 72 68" stroke="#2563eb" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- Title -->
+  <text x="600" y="360" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="700" fill="#1f2937" text-anchor="middle">Nuôi Tôi</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="28" fill="#6b7280" text-anchor="middle">Ủng hộ minh bạch 100%</text>
+
+  <!-- Badge -->
+  <rect x="480" y="460" width="240" height="44" rx="22" fill="#2563eb" fill-opacity="0.1"/>
+  <text x="600" y="490" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#2563eb" text-anchor="middle">nuoitoi.khuong.dev</text>
+</svg>
